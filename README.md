@@ -22,6 +22,11 @@ This repository contains the complete implementation of a **secure, Byzantine-re
 
 While federated learning (FL) enables privacy-preserving medical AI, its vulnerability to malicious clients who can corrupt diagnostic models hinders widespread clinical adoption. We address this critical security gap with a novel **three-tier framework** for EEG seizure detection. Our architecture integrates an ultra-strict, HMAC-SHA256 remote attestation protocol to continuously verify and block untrusted clients in real-time, thereby safeguarding a federated network of lightweight CNNs deployed on resource-constrained Raspberry Pi devices.
 
+## Comical Abstract
+Self drawn using sketchbook
+![3TierArchiComic](https://github.com/user-attachments/assets/6864f8c6-d507-4a6a-9a5e-5b3c181d4e50)
+
+---
 ### Key Achievements
 - **95.2%** diagnostic accuracy maintained even with **30% malicious clients** (vs 97.5% baseline)
 - **98.7%** attack detection rate through zero-tolerance attestation

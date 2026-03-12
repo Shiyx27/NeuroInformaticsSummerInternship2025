@@ -131,8 +131,10 @@ pip install -r requirements.txt
 
 ## Citation
 
-If you use this code or framework in your research, please cite our paper:
-- **Will update the IEEE paper citation once published** Meanwhile,
+If you use this code or framework in your research, please cite our paper: 
+
+S. R S, J. Aparajeeta and S. S. Kaimal, "Security Auditing and Malicious Client Blocking in Federated EEG Seizure Detection," 2026 9th International Conference on Computational Intelligence in Data Science (ICCIDS), Chennai, India, 2026, pp. 1-6, doi: 10.1109/ICCIDS69108.2026.11407536.
+-
 
 -Shiyamaladevi R S, Swaroop S Kaimal, Jeetashree Aparajeeta. Security Auditing and Ultra-Strict Malicious Client Blocking in Federated EEG Seizure Detection. TechRxiv. November 14, 2025.
 
